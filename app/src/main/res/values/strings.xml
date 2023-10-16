@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="str_nameHint">Insert you name here</string>
+    <string name="str_btnSubmit">Submit</string>
+</resources>
